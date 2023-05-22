@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend application using Electron with integration of OpenAI Api and Supabase.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/printfxy1/frontend.git"
+  },
+  "keywords": [
+    "Xyrylle",
+    "Belmes"
+  ],
+  "author": "Xyrylle Belmes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/printfxy1/frontend/issues"
+  },
+  "homepage": "https://github.com/printfxy1/frontend#readme",
+  "devDependencies": {
+    "electron": "^24.3.1"
+  }
+}
